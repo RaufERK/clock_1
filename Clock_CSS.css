@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Share+Tech+Mono');
+
+body {
+	background: #0b090e;
+}
+
+#clock {
+	position: absolute;
+	top: 50%;
+	left: 35%;
+	margin: -100px 0 0 -100px;	
+	font-size: 200px;
+	color: #def1ff;
+	font-family: 'Share Tech Mono', monospace;	
+	text-shadow: 0 0 50px #2a14ff;	
+}
